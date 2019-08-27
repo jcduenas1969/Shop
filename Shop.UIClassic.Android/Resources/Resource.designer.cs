@@ -3217,9 +3217,6 @@ namespace Shop.UIClassic.Android
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7F080049
-			public const int @fixed = 2131230793;
-			
 			// aapt resource value: 0x7F080017
 			public const int actions = 2131230743;
 			
@@ -3426,6 +3423,9 @@ namespace Shop.UIClassic.Android
 			
 			// aapt resource value: 0x7F080047
 			public const int fill_vertical = 2131230791;
+			
+			// aapt resource value: 0x7F080049
+			public const int @fixed = 2131230793;
 			
 			// aapt resource value: 0x7F08004A
 			public const int forever = 2131230794;
